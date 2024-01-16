@@ -1,0 +1,21 @@
+#1 Guess the number
+Working with randomness and loops is important when programming, and a “Guess The Number” app allows you to practice both concepts. In this app, you’ll ask a user to repetedly guess a number between 1 and 10 and tell them if they are too high or too low. The user can keep guessing the number until they get it right. At the end, the user is told how many turns it took them to guess the number.
+
+#2 Nickname generator
+In this project, you’ll prompt a user for their first and last names and then you’ll insert a random nickname between their first and last names. Although it sounds simple, you’ll be using many core programming concepts to get this app to work!
+
+#3 Quiz - Ask questions and check answers, score the user
+
+#4 Strong Password Generator
+
+#5 Current Weather
+
+#6 Python Chatbot
+
+#7 Rolling a dice 6, 12,24,50 faces
+
+#8 Webpage using Flask or Django
+
+#9 Game (flappy?)
+
+#10 Contribute to a opensource project
