@@ -2,7 +2,6 @@
 
 mynumber=0
 
-print(mynumber)
 # Loop over until 100
 while mynumber <= 100:
   print(mynumber)
