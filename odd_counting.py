@@ -1,2 +1,1 @@
-my_number=1
-
+poop=print ("adi is poop")
