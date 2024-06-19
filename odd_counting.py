@@ -1,1 +1,1 @@
-poop=print ("adi is poop")
+poop=print ("")
