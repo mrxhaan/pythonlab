@@ -1,3 +1,19 @@
+LABs
+===============
+1) Check if number is between 11 and 20, then print "acceptable number" else print "inacceptable number"
+2) Check if number is ODD or even
+3) Print addition, subtraction, mutiplication, division of the two numbers x and y 
+4) Take two numbers from user, print all numbers between those two numbers, including those two. 
+
+
+
+
+
+
+Final Projects
+==============================
+
+
 #1 Guess the number
 Working with randomness and loops is important when programming, and a “Guess The Number” app allows you to practice both concepts. In this app, you’ll ask a user to repetedly guess a number between 1 and 10 and tell them if they are too high or too low. The user can keep guessing the number until they get it right. At the end, the user is told how many turns it took them to guess the number.
 
